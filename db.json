@@ -1,0 +1,48 @@
+{
+  "MyBooks": [
+    {
+      "id": 9,
+      "name": "Volver a casa",
+      "author": "Yaa Gyasi",
+      "price": "$19",
+      "image": "https://m.media-amazon.com/images/I/81DYjIjT5qL._AC_UF894,1000_QL80_.jpg",
+      "description": "Effia and Esi are born in Ghana during the height of the transatlantic slave trade. They share the same mother, but their fathers are from different ethnic groups. In 14 intertwined chapters, the author narrates the story of the two sides of the family, full of sorrow and hope from either side of the ocean.",
+      "button": "https://www.svgrepo.com/show/425672/play-player-music.svg",
+      "leftButton": "https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton": "https://www.svgrepo.com/show/374749/output.svg"
+    },
+    {
+      "id": 2,
+      "name": "Domingo",
+      "author": "Natalia Ginzburg",
+      "price": "$19",
+      "image": "https://books.google.com/books/publisher/content/images/frontcover/LJgZEAAAQBAJ?fife=w240-h345",
+      "description": "Cada relato de Natalia Ginzburg es una revelación; las historias que componen 'Domingo' representan el epítome de su inconfundible voz, la de una autora en estado de gracia, que explora los límites tanto de la ficción como de la narración autobiográfica y la crónica.",
+      "button": "https://www.svgrepo.com/show/425672/play-player-music.svg",
+      "leftButton": "https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton": "https://www.svgrepo.com/show/374749/output.svg"
+    },
+    {
+      "id": 7,
+      "name": "Federico",
+      "author": "Ilu Ros",
+      "price": "$19",
+      "image": "https://books.google.com/books/publisher/content/images/frontcover/W4AnEAAAQBAJ?fife=w240-h345",
+      "description": "La gran dibujante y contadora de historias que es Ilu Ros aborda ahora la vida y obra de Federico García Lorca. Su Federico está lleno de pasión, arte, vida y poesía. Un fino y riguroso trabajo documental que ilustra con su trazo libre, evocador, personalísimo. Una joya.",
+      "button": "https://www.svgrepo.com/show/425672/play-player-music.svg",
+      "leftButton": "https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton": "https://www.svgrepo.com/show/374749/output.svg"
+    },
+    {
+      "id": 12,
+      "name": "La Folle semence",
+      "author": "Anthony Burgess",
+      "price": "$10",
+      "image": "https://m.media-amazon.com/images/P/B09GJB5QV2.01._SCLZZZZZZZ_SX500_.jpg",
+      "description": "Un chef-d'œuvre de science-fiction par l'auteur deL'Orange mécanique",
+      "button": "https://www.svgrepo.com/show/425672/play-player-music.svg",
+      "leftButton": "https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton": "https://www.svgrepo.com/show/374749/output.svg"
+    }
+  ]
+}
